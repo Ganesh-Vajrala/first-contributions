@@ -7,6 +7,7 @@
 - [forkcommit](https://github.com/forkcommit)
 - [Ankur Mallick](https://github.com/AnkurMal)
 - [Muhsil NR](https://github.com/mhlohh)
+- [Ganesh Vajrala](https://github.com/Ganesh-Vajrala/)
 - [skntrl] (https://github.com/skntrl)
 - [Khalil Khamassi](https://github.com/khalilkhamassi62-oss)
 - [Atul Pandey](https://github.com/atulpandey9)
